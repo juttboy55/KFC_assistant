@@ -1,0 +1,15 @@
+/* VoiceBot.css */
+
+  .voice-bot button {
+    width: 200px;
+  }
+
+  .voice-bot {
+    text-align: center;
+  }
+  
+  .avatar {
+    width: 200px;
+    height: auto;
+  }
+  
